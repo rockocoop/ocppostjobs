@@ -5,6 +5,7 @@ The following playbook and role cover these actions:
 
 Remove a predefined list of unwanted catalog items/image streams
 Create the wanted catalog items/image streams
+Update new project template
 Configure user project quota to zero
 Check selinux is enforced
 
